@@ -1,4 +1,4 @@
-![An old rock in the desert](https://i.pinimg.com/originals/b4/60/26/b46026f6d91a71cacac0e00dbdf6acd4.png)
+![code banner aaliya](https://github.com/AaliyaSeta/AaliyaSeta/blob/main/AALIYA%20SETA.png)
 
 ### Hi there 👋
 
@@ -18,3 +18,5 @@ Hobbies: ⛰️ Hiking,📚 Reading, 🛼 Rollerblading
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
+## Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaliyaSeta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)

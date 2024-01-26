@@ -20,4 +20,5 @@ Hobbies: ⛰️ Hiking,📚 Reading, 🛼 Rollerblading
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ## Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaliyaSeta&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AaliyaSeta)](https://github.com/anuraghazra/github-readme-stats)
+

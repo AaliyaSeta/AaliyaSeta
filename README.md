@@ -6,9 +6,8 @@ I'm Aaliya, a grade 11 web developer passionate about computer science
 
 ## About Me 
 School: Nora Frances Henderson   
-Hobbies: ⛰️ Hiking,📚 Reading, 🛼 Rollerblading
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aaliyaseta@gmail.com)
+Hobbies: ⛰️ Hiking,📚 Reading, 🛼 Rollerblading  
+Reach Me: aaliyaseta@gmail.com
 
 ## Tools
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
